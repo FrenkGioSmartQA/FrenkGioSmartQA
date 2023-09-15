@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrenkGioSmartQA
+- 👋 Hi, I’m @FrenkGio
 - 👀 I’m interested in sports, nature and automation
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
